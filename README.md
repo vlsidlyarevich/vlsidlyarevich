@@ -1,7 +1,7 @@
-### Hello there, mate 👋
-Dat is software pepe home 
+### Hello there, mate 👋 Dat is software peepo home.
 ![alt text](https://github.com/vlsidlyarevich/vlsidlyarevich/blob/main/peepo.jpeg?raw=true)
 
+You can visit pepe-mate [solairove-pepe](https://github.com/solairerove) for more softpepe content.
 <!--
 **vlsidlyarevich/vlsidlyarevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
